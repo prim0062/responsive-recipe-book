@@ -1,3 +1,24 @@
 html {
-  font-family: sans-serif;
+  font-family: adelle-condensed, serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.header-1 {
+  font-family: dessert-script, script;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.header-2 {
+  font-family: adelle-condensed, serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.body {
+  font-family: adelle-condensed, serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.3;
 }
