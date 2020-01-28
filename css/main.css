@@ -34,3 +34,37 @@ html {
 .remove-indent {
   margin-left: -1em;
 }
+
+h1 {
+  border-bottom: 5px solid #fff;
+}
+
+header {
+  color: #fff;
+  background-color: #9f0b0f;
+}
+
+header div {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+header ul {
+  padding: 0;
+}
+
+header li {
+  list-style-type: none;
+  text-align: center;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header a:hover {
+  color: #000;
+  background-color: #fff;
+}
