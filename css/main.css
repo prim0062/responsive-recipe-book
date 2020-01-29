@@ -64,9 +64,13 @@ header a {
   text-decoration: none;
 }
 
-header a:hover, .recipes:hover .recipes-btn {
+nav a:hover, .recipes:hover .recipes-btn {
   color: #000;
   background-color: #fff;
+}
+
+.recipes-btn {
+  padding-right: 1.25em;
 }
 
 .recipes {
